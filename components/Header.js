@@ -16,13 +16,13 @@ const Header = () => {
                         <div className=" text-2xl text-accent">
                             <MdLocationOn />
                         </div>
-                        <h5>148 Daran, IUT,  NY</h5>
+                        <h5>148 Daran, isfahan,  NY</h5>
                     </div>
                     <div className=" flex gap-x-2 items-center ">
                         <div className=" text-xl text-accent">
                             <FaPhoneAlt />
                         </div>
-                        <h5>(+913) 719 7236</h5>
+                        <h5>(+913) 719 7510</h5>
                     </div>
                     <div>
                         <button className=" uppercase border-2 rounded-3xl border-accent py-2 px-12 hover:border-accent-tertiary duration-300 hover:text-white hover:bg-accent">book new</button>
