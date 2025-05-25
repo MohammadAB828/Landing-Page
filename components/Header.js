@@ -9,7 +9,7 @@ const Header = () => {
         <header className=" bg-transparent py-5 lg:pt-5 lg:pb-14">
             <div className=" w-full lg:w-[80%] lg:relative lg:mx-auto flex flex-col lg:flex-row items-center gap-y-5 lg:justify-between">
                 <div>
-                    <Image src="../img/header/logo.svg" width={160} height={100} />
+                    <Image src="/img/header/logo.svg" alt="image1" width={160} height={100} />
                 </div>
                 <div className=" flex flex-col lg:flex-row lg:gap-y-0 lg:gap-x-4 xl:gap-x-8 gap-y-4 items-center">
                     <div className=" flex gap-x-1 items-center">

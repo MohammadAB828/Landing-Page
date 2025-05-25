@@ -43,7 +43,7 @@ const Footer = () => {
                 <motion.div
                     variants={imgg}
                     className="max-w-md flex flex-col items-start gap-y-6">
-                    <Image src="../img/header/logo.svg" width={180} height={120} />
+                    <Image src="/img/header/logo.svg" alt="image1" width={180} height={120} />
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab architecto fugit magnam.</p>
                     <div className=" flex flex-col gap-y-5">
                         <div className=" flex gap-x-2 items-center">

@@ -38,7 +38,7 @@ const Team = () => {
                                 <div className=" mt-5 flex flex-col gap-y-5 items-start text-left
                                  lg:flex-row lg:items-center">
                                     <div className=" w-full lg:mr-5">
-                                        <Image src="/../img/team/doctor-1.png" width={1000} height={1000} />
+                                        <Image src="/img/team/doctor-1.png" alt="image1" width={1000} height={1000} />
                                     </div>
                                     <div className=" flex flex-col gap-y-3">
                                         <div className=" flex flex-col gap-y-1">
@@ -58,7 +58,7 @@ const Team = () => {
                             <div className=" md:w-[45%] lg:w-[50%] xl:w-[48%]">
                                 <div className=" mt-5 flex flex-col gap-y-5  items-start text-left lg:flex-row lg:items-center">
                                     <div className=" w-full lg:mr-5">
-                                        <Image src="/../img/team/doctor-2.png" width={1000} height={1000} />
+                                        <Image src="/img/team/doctor-2.png" alt="image1" width={1000} height={1000} />
                                     </div>
                                     <div className=" flex flex-col gap-y-3">
                                         <div className=" flex flex-col gap-y-1">
@@ -84,7 +84,7 @@ const Team = () => {
                                 <div className=" mt-5 flex flex-col gap-y-5 items-start text-left
                                  lg:flex-row lg:items-center">
                                     <div className=" w-full lg:mr-5">
-                                        <Image src="/../img/team/doctor-1.png" width={1000} height={1000} />
+                                        <Image src="/img/team/doctor-1.png" alt="image1" width={1000} height={1000} />
                                     </div>
                                     <div className=" flex flex-col gap-y-3">
                                         <div className=" flex flex-col gap-y-1">
@@ -104,7 +104,7 @@ const Team = () => {
                             <div className=" md:w-[45%] lg:w-[50%] xl:w-[48%]">
                                 <div className=" mt-5 flex flex-col gap-y-5  items-start text-left lg:flex-row lg:items-center">
                                     <div className=" w-full lg:mr-5">
-                                        <Image src="/../img/team/doctor-2.png" width={1000} height={1000} />
+                                        <Image src="/img/team/doctor-2.png" alt="image1" width={1000} height={1000} />
                                     </div>
                                     <div className=" flex flex-col gap-y-3">
                                         <div className=" flex flex-col gap-y-1">

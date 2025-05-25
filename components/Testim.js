@@ -52,7 +52,7 @@ const Testim = () => {
                  whileInView={'show'}
                  viewport={{once: true , amount: 0.4}}
                  className=' lg:w-[50%] hidden lg:flex'>
-                    <Image src="/../img/testimonials/img.png" width={400} height={300} />
+                    <Image src="/img/testimonials/img.png" alt="image1" width={400} height={300} />
                 </motion.div>
             </div>
         </section>

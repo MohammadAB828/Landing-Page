@@ -23,7 +23,7 @@ const Navbar = () => {
             </div>
             <div className=" px-12 flex flex-col mx-auto h-full gap-y-12">
                 <Link href="/">
-                    <Image src="../img/header/logo.svg" width={160} height={100} />
+                    <Image src="/img/header/logo.svg" alt="image1" width={160} height={100} />
                 </Link>
                 <ul className=" flex flex-col gap-y-5 text-xl">
                     <li>

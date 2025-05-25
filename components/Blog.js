@@ -43,7 +43,7 @@ const Blog = () => {
                         variants={imgg}
                         className=" bg-white flex flex-col max-w-[340px] shadow-xl cursor-pointer group lg:ml-5">
                         <div className=" overflow-hidden relative rounded-t-xl">
-                            <Image className=" group-hover:scale-110 duration-300" src="/../img/blog/img-1.png" width={350} height={200} />
+                            <Image className=" group-hover:scale-110 duration-300" alt="image1" src="/img/blog/img-1.png" width={350} height={200} />
                             <div className=" absolute bottom-0 left-0 bg-accent-tertiary px-1 uppercase text-white">
                                 medical
                             </div>
@@ -59,7 +59,7 @@ const Blog = () => {
                         variants={imgg}
                         className=" bg-white flex flex-col max-w-[340px] shadow-xl cursor-pointer  group">
                         <div className=" overflow-hidden relative rounded-t-xl">
-                            <Image className=" group-hover:scale-110 duration-300" src="/../img/blog/img-2.png" width={350} height={200} />
+                            <Image className=" group-hover:scale-110 duration-300" alt="image1" src="/img/blog/img-2.png" width={350} height={200} />
                             <div className=" absolute bottom-0 left-0 bg-accent-tertiary px-1 uppercase text-white">
                                 medical
                             </div>
@@ -75,7 +75,7 @@ const Blog = () => {
                         variants={imgg}
                         className=" bg-white flex flex-col max-w-[340px] shadow-xl cursor-pointer lg:mr-5 group">
                         <div className=" overflow-hidden relative rounded-t-xl">
-                            <Image className=" group-hover:scale-110 duration-300" src="/../img/blog/img-3.png" width={350} height={200} />
+                            <Image className=" group-hover:scale-110 duration-300" alt="image1" src="/img/blog/img-3.png" width={350} height={200} />
                             <div className=" absolute bottom-0 left-0 bg-accent-tertiary px-1 uppercase text-white">
                                 medical
                             </div>

@@ -68,7 +68,7 @@ export default function Home() {
             initial='hidden'
             whileInView={'show'}
             viewport={{ once: true, amount: 0.4 }} className=" lg:flex hidden">
-            <Image src="/../img/hero/img.png" width={600} height={500} />
+            <Image src="/img/hero/img.png" alt="image1" width={600} height={500} />
           </motion.div>
         </div>
       </section>
@@ -299,31 +299,31 @@ export default function Home() {
           <motion.div
             variants={imgg}
           >
-            <Image src="../img/brands/brand-1.svg" width={140} height={100} />
+            <Image src="/img/brands/brand-1.svg" alt="image1" width={140} height={100} />
           </motion.div>
 
           <motion.div
             variants={imgg}
           >
-            <Image src="../img/brands/brand-2.svg" width={140} height={100} />
+            <Image src="/img/brands/brand-2.svg" alt="image1" width={140} height={100} />
           </motion.div>
 
           <motion.div
             variants={imgg}
           >
-            <Image src="../img/brands/brand-3.svg" width={140} height={100} />
+            <Image src="/img/brands/brand-3.svg" alt="image1" width={140} height={100} />
           </motion.div>
 
           <motion.div
             variants={imgg}
           >
-            <Image src="../img/brands/brand-4.svg" width={140} height={100} />
+            <Image src="/img/brands/brand-4.svg" alt="image1" width={140} height={100} />
           </motion.div>
 
           <motion.div
             variants={imgg}
           >
-            <Image src="../img/brands/brand-5.svg" width={140} height={100} />
+            <Image src="/img/brands/brand-5.svg" alt="image1" width={140} height={100} />
           </motion.div>
 
         </motion.div>

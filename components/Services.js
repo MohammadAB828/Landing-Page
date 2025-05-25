@@ -53,7 +53,7 @@ const Services = () => {
                     <motion.div
           variants={imgg} className=" bg-white shadow-2xl rounded-xl px-8 py-4 text-center items-center flex flex-col min-h-[288px] gap-y-3">
                         <div>
-                            <Image src="../icons/services/icon-1.svg" width={70} height={40} />
+                            <Image src="/icons/services/icon-1.svg" alt="image1" width={70} height={40} />
                         </div>
 
                         <h3 className=" text-black text-2xl font-semibold">General Proctitioners</h3>
@@ -63,7 +63,7 @@ const Services = () => {
                     <motion.div
           variants={imgg} className=" bg-white shadow-2xl rounded-xl px-8 py-4 text-center items-center flex flex-col min-h-[288px] gap-y-3">
                         <div>
-                            <Image src="../icons/services/icon-2.svg" width={70} height={40} />
+                            <Image src="/icons/services/icon-2.svg" alt="image1" width={70} height={40} />
                         </div>
 
                         <h3 className=" text-black text-2xl font-semibold">Pregency Suport</h3>
@@ -73,7 +73,7 @@ const Services = () => {
                     <motion.div
           variants={imgg} className=" bg-white shadow-2xl rounded-xl px-8 py-4 text-center items-center flex flex-col min-h-[288px] gap-y-3">
                         <div>
-                            <Image src="../icons/services/icon-3.svg" width={70} height={40} />
+                            <Image src="/icons/services/icon-3.svg" alt="image1" width={70} height={40} />
                         </div>
 
                         <h3 className=" text-black text-2xl font-semibold">Notional Suport</h3>
@@ -83,7 +83,7 @@ const Services = () => {
                     <motion.div
           variants={imgg} className=" bg-white shadow-2xl rounded-xl px-8 py-4 text-center items-center flex flex-col min-h-[288px] gap-y-3">
                         <div>
-                            <Image src="../icons/services/icon-4.svg" width={70} height={40} />
+                            <Image src="/icons/services/icon-4.svg" alt="image1" width={70} height={40} />
                         </div>
 
                         <h3 className=" text-black text-2xl font-semibold">Emergency pages</h3>
